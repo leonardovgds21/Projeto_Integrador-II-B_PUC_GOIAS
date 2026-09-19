@@ -44,13 +44,10 @@ O nome do cliente é anônimo, sendo me permitido apenas a identificação do de
 
 ## Requisitos do sistema
 
-//RASCUNHO
 * O administrador terá um sistema web para acompanhar o dashboard contendo relatório sobre os atendimentos por departamento (quantidade de mensagens por departamento, por atendente, total), com período à escolha do administrador (horas, dias, meses), as métricas são a quantidade de atendimento por atendente e departamento, tempo de resposta entre as mensagens e tempo desde o inicio do atendimento até o seu encerramento.
 * O sistem web deverá permitir o cadastro e exclusão de departamentos e atendentes por parte do administrador.
 * O sistema web deverá fornecer ao administrador a opção de monitorar (ver) as conversas de todos os atendentes.
 * O sistema web deverá permitir que o administrador possa configurar o chatbot (editar mensagens padrão do menú, criar e excluir mensagens automáticas).
-
-
 * Os atendentes terão um aplicativo mobile com a mesma interface gráfica do aplicativo oficial do Whatsapp.
 * O aplicativo mobile deverá conter as funções de ler, responder e encerrar conversas recebidas, exclusivamente dos atendimentos direcionados a esse atendente.
 * Cada atendente acessará o aplicativo com seu próprio login e senha, cadastrados pelo administrador.
