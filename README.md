@@ -130,7 +130,6 @@ O aplicativo mobile deverá possuir interface gráfica semelhante à interface d
 O sistema não deverá disponibilizar funcionalidades destinadas à realização de marketing.
 
 ## Diagrama de Casos de Uso
-![Diagrama UML](./Diagrama_UML.png)
 
 
 
@@ -155,11 +154,4 @@ O sistema não deverá disponibilizar funcionalidades destinadas à realização
 
 
 
-## rascunho
-Agentes: cliente, atendente, administrador e sistema.
 
-cliente: entra em contato com a empresa --> sistema responde com um chatbot que retorna um menú para escolher  o departamento --> cliente escolhe o departamento (<<extend>>  caso o cliente insira um departamento inválido, o sistema pede novamente para selecionar um departamento). --> sistema conecta o cliente a um atendente, baseado no departamento escolhido (<<extend>> caso nenhum atendente esteja disponível, ele entra na fila de espera).
-
-administrador: acessa o sistema web para gerenciamento e dashboards (<<include>> precisa fazer login) --> sistema retorna a interface de gerenciamento e dashboards.
-
-atendente: acessa o sistema mobile (<<include>> precisa fazer login) --> sistema mostra as mensagens transferidas pelo chatbot especificamente para esse atendente --> atendente acessas essas conversas e pode responder e encerrar.
