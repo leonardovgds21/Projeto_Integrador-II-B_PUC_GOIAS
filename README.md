@@ -136,3 +136,5 @@ O aplicativo mobile deverá possuir interface gráfica semelhante à interface d
 O sistema não deverá disponibilizar funcionalidades destinadas à realização de marketing.
 
 ## Diagrama de Casos de Uso
+
+![Diagrama de Casos de Uso](Diagrama_UML.png)
