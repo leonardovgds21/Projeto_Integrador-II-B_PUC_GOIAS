@@ -138,3 +138,8 @@ O sistema não deverá disponibilizar funcionalidades destinadas à realização
 ## Diagrama de Casos de Uso
 
 ![Diagrama de Casos de Uso](Diagrama_UML.png)
+
+## Especificações de Casos de Uso
+
+Especificações de casos de Uso feitas em PDF, por ser muito extenso, preferi deixar apenas o link de acesso ao PDF:
+[Baixar Relatório em PDF](./Especificacoes_Casos_de_Uso.pdf).
