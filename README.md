@@ -143,3 +143,7 @@ O sistema não deverá disponibilizar funcionalidades destinadas à realização
 
 Especificações de casos de Uso feitas em PDF, por ser muito extenso, preferi deixar apenas o link de acesso ao PDF:
 [Baixar Relatório em PDF](./Especificacoes_Casos_de_Uso.pdf).
+
+*Observação:* precisa ir clicando em "mais páginas", pois são 15 páginas no total.
+
+## 
