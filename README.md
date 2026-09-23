@@ -145,3 +145,19 @@ Especificações de casos de Uso feitas em PDF, por ser muito extenso, preferi d
 <!-- [Baixar Relatório em PDF](./Especificacoes_Casos_de_Uso.pdf). -->
 
 [Baixar Relatório em PDF](https://raw.githubusercontent.com/leonardovgds21/Projeto_Integrador-II-B_PUC_GOIAS/main/Especificacoes_Casos_de_Uso.pdf).
+
+## Protótipo de telas
+### Login do app Mobile
+![Login Mobile](./modelo-telas/login_mobile.jpg)
+
+### Tela do app Mobile
+![Login Mobile](./modelo-telas/tela_mobile.jpg)
+
+### Login do Web Gerencial
+![Login Mobile](./modelo-telas/login_web.jpg)
+
+### Tela Dashboard Web 
+![Login Mobile](./modelo-telas/dashboards_web.jpg)
+
+### Tela Gerencial Web
+![Login Mobile](./modelo-telas/gerenciamento_web.jpg)
