@@ -40,7 +40,9 @@ O nome do cliente é anônimo, sendo me permitido apenas a identificação do de
 
 * *Responsável:* Arthur Freitas.
 * *Função:* engenheiro de software senior.
-* *Assinatura:* 
+* *Assinatura:*
+<img src="https://github.com/leonardovgds21/Projeto_Integrador-II-B_PUC_GOIAS/blob/main/applet/assinatura_projeto.jpeg" alt="assinatura do dev" width="100px" height="100px">
+
 
 ## Requisitos do sistema
 
