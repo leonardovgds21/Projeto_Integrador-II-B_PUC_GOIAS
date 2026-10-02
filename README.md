@@ -148,6 +148,13 @@ Especificações de casos de Uso feitas em PDF, por ser muito extenso, preferi d
 
 [Baixar Relatório em PDF](https://raw.githubusercontent.com/leonardovgds21/Projeto_Integrador-II-B_PUC_GOIAS/main/Especificacoes_Casos_de_Uso.pdf).
 
+## Vídeo explicativo
+Vídeo narrado (2 min 41 s) mostrando como o sistema funciona, usando os protótipos de tela. Clique na imagem para assistir:
+
+[![Assistir ao vídeo explicativo](./applet/video_capa.jpg)](https://raw.githubusercontent.com/leonardovgds21/Projeto_Integrador-II-B_PUC_GOIAS/main/video_explicativo_sistema.mp4)
+
+[Baixar o vídeo (MP4)](./video_explicativo_sistema.mp4)
+
 ## Protótipo de telas
 ### Login do app Mobile
 ![Login Mobile](./modelo-telas/login_mobile.jpg)
